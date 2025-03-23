@@ -4,6 +4,9 @@
   "description": "Upwork coding challenge",
   "author": "Ken Dan Tinio",
   "private": true,
+  "engines": {
+    "node": "20.x"
+  },
   "license": "UNLICENSED",
   "scripts": {
     "build": "nest build",
