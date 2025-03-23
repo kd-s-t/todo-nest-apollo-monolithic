@@ -1,4 +1,4 @@
-Todo App made with React, Nest and Apollo by Kenn  
+### Todo App made with React, Nest and Apollo by Kenn  
 
 <div align="center">
 
